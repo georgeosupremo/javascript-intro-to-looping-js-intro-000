@@ -7,5 +7,6 @@ for(let i = 0; i<25;i++){
     push.array("I am $[i} stange loops.")
 }
 }
-return.array}
+return array
+}
 }
