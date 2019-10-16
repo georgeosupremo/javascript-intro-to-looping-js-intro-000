@@ -4,8 +4,8 @@ for(let i = 0; i<25;i++){
     push.array("I am 1 strange loop.")
   }
   else{
-    push.array()
-retu"I am $[i} stange loops"
+    push.array("I am $[i} stange loops.")
+}
 }
 }
 }
